@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=34&width=1000&center=true&lines=Olá!+I'm+Letícia+Geovana.+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=34&width=1000&center=true&lines=Olá!+Sou+Letícia+Geovana.+:%29)](https://git.io/typing-svg)
 
 ### Estudando:
 
