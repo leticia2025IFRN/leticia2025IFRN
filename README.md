@@ -29,6 +29,7 @@ Sou Letícia Geovana, estudante de **Tecnologia em Sistemas para Internet**, tam
   <img align="center" alt="icon_postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="icon_docker" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="icon_podman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg">
+  <img align="center" alt="icon_yarn" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg">
 </div>
 
 ## Interesses
